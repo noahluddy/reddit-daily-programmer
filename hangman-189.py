@@ -1,3 +1,5 @@
+# https://www.reddit.com/r/dailyprogrammer/comments/2mlfxp/20141117_challenge_189_easy_hangman/? 
+
 from random import *
 
 ## A list of multi-line strings!
